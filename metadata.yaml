@@ -1,0 +1,37 @@
+_repo: Rose---Charlitte_41296
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Young, H. de M.
+    gutenberg_agent_id: '41100'
+    url: http://www.gutenberg.org/2009/agents/41100
+covers:
+- cover_type: archival
+  image_path: 41296-h/images/th_cover.jpg
+creator:
+  author:
+    agent_name: Saunders, Marshall
+    alias: Saunders, Margaret Marshall
+    birthdate: 1861
+    deathdate: 1947
+    gutenberg_agent_id: '1041'
+    url: http://www.gutenberg.org/2009/agents/1041
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Marshall_Saunders
+description: ''
+gutenberg_issued: '2012-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41296'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Nova Scotia -- Fiction'
+- !lcsh 'Americans -- Nova Scotia -- Fiction'
+- !lcsh 'Acadians -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Hotelkeepers -- Fiction'
+title: Rose à Charlitte
+url: http://www.gutenberg.org/ebooks/41296
